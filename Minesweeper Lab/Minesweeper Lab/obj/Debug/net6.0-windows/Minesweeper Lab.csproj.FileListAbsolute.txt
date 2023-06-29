@@ -1,0 +1,17 @@
+C:\Users\pierr\OneDrive\travail IUT\TP-IHM\Minesweeper Lab\Minesweeper Lab\bin\Debug\net6.0-windows\Minesweeper Lab.exe
+C:\Users\pierr\OneDrive\travail IUT\TP-IHM\Minesweeper Lab\Minesweeper Lab\bin\Debug\net6.0-windows\Minesweeper Lab.deps.json
+C:\Users\pierr\OneDrive\travail IUT\TP-IHM\Minesweeper Lab\Minesweeper Lab\bin\Debug\net6.0-windows\Minesweeper Lab.runtimeconfig.json
+C:\Users\pierr\OneDrive\travail IUT\TP-IHM\Minesweeper Lab\Minesweeper Lab\bin\Debug\net6.0-windows\Minesweeper Lab.dll
+C:\Users\pierr\OneDrive\travail IUT\TP-IHM\Minesweeper Lab\Minesweeper Lab\bin\Debug\net6.0-windows\Minesweeper Lab.pdb
+C:\Users\pierr\OneDrive\travail IUT\TP-IHM\Minesweeper Lab\Minesweeper Lab\obj\Debug\net6.0-windows\Minesweeper Lab.csproj.AssemblyReference.cache
+C:\Users\pierr\OneDrive\travail IUT\TP-IHM\Minesweeper Lab\Minesweeper Lab\obj\Debug\net6.0-windows\Minesweeper_Lab.frmMain.resources
+C:\Users\pierr\OneDrive\travail IUT\TP-IHM\Minesweeper Lab\Minesweeper Lab\obj\Debug\net6.0-windows\Minesweeper Lab.csproj.GenerateResource.cache
+C:\Users\pierr\OneDrive\travail IUT\TP-IHM\Minesweeper Lab\Minesweeper Lab\obj\Debug\net6.0-windows\Minesweeper Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pierr\OneDrive\travail IUT\TP-IHM\Minesweeper Lab\Minesweeper Lab\obj\Debug\net6.0-windows\Minesweeper Lab.AssemblyInfoInputs.cache
+C:\Users\pierr\OneDrive\travail IUT\TP-IHM\Minesweeper Lab\Minesweeper Lab\obj\Debug\net6.0-windows\Minesweeper Lab.AssemblyInfo.cs
+C:\Users\pierr\OneDrive\travail IUT\TP-IHM\Minesweeper Lab\Minesweeper Lab\obj\Debug\net6.0-windows\Minesweeper Lab.csproj.CoreCompileInputs.cache
+C:\Users\pierr\OneDrive\travail IUT\TP-IHM\Minesweeper Lab\Minesweeper Lab\obj\Debug\net6.0-windows\Minesweeper Lab.dll
+C:\Users\pierr\OneDrive\travail IUT\TP-IHM\Minesweeper Lab\Minesweeper Lab\obj\Debug\net6.0-windows\refint\Minesweeper Lab.dll
+C:\Users\pierr\OneDrive\travail IUT\TP-IHM\Minesweeper Lab\Minesweeper Lab\obj\Debug\net6.0-windows\Minesweeper Lab.pdb
+C:\Users\pierr\OneDrive\travail IUT\TP-IHM\Minesweeper Lab\Minesweeper Lab\obj\Debug\net6.0-windows\Minesweeper Lab.genruntimeconfig.cache
+C:\Users\pierr\OneDrive\travail IUT\TP-IHM\Minesweeper Lab\Minesweeper Lab\obj\Debug\net6.0-windows\ref\Minesweeper Lab.dll
